@@ -7,6 +7,8 @@
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+docker.env
+.env
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
@@ -394,5 +396,4 @@ Temporary Items
 
 =======
 # Local
-.env
 dist
